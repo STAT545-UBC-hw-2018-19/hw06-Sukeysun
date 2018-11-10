@@ -416,7 +416,9 @@ telephone_number <- c("123456****", "186402****", "158408****", "1794***")
 # str_view(stringr::words, "([aeiou][^aeiou]){2}+", match = TRUE)
 ```
 
--   Solve the beginner regexp crosswords at <https://regexcrossword.com/challenges/beginner>. !()\[<https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Data_wrangling_wrap_up_files/puzzles.jpg>\]
+-   Solve the beginner regexp crosswords at <https://regexcrossword.com/challenges/beginner>.
+
+![](https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Data_wrangling_wrap_up_files/puzzles.jpg)
 
 14.3.5.1 Exercises
 ------------------
