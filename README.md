@@ -1,4 +1,4 @@
-# Assignment 5 :smile:
+# Assignment 6 :smile:
 ## Data wrangling wrap up
 
 - In this repository, you can find:
@@ -10,7 +10,7 @@
   
 **For details:**
 
-[Data wrangling wrap up.Rmd](https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Factor%20and%20figure%20management.Rmd)  
+[Data wrangling wrap up.Rmd](https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Data%20wrangling%20wrap%20up.Rmd)  
 
-[Data wrangling wrap up.md](https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Factor_and_figure_management.md)
+[Data wrangling wrap up.md](https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Data_wrangling_wrap_up.md)
 
