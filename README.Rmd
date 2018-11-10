@@ -1,0 +1,16 @@
+# Assignment 5 :smile:
+## Data wrangling wrap up
+
+- In this repository, you can find:
+    * I completed the first two tasks
+    * I commented some code in my md file as the output is only viewable in the html file.
+    * This assignment is quite long so I used TOC which is helpful to navigate my md much quicker.
+    
+
+  
+**For details:**
+
+[Data wrangling wrap up.Rmd](https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Factor%20and%20figure%20management.Rmd)  
+
+[Data wrangling wrap up.md](https://github.com/STAT545-UBC-students/hw06-Sukeysun/blob/master/Factor_and_figure_management.md)
+
